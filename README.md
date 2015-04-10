@@ -54,3 +54,8 @@ To use this REST service, this is the kind of `curl` command you should use.
 ```
 curl --verbose --user Admin:admin --request PUT "http://localhost:8080/xwiki/rest/learnpad/wiki?path=/path/to/ROOT"
 ```
+
+To display the result correctly in the wiki, you also need some script services.
+You can build them from
+[here](https://github.com/xwiki-labs/learnpad/tree/master/lp-collaborative-workspace/lp-cw-component/lp-cw-component-service)
+and then copy the JARs in your XWiki instance.
