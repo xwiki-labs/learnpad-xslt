@@ -1,6 +1,8 @@
 This is a temporary repo.  It should be integrated into the LearnPAd platform
 (xwiki-labs/learnpad) in the end.
 
+[![XWiki labs logo](https://labs.xwiki.com/xwiki/bin/download/Developments/Xlabs/xwiki-labs-project.png "XWiki labs")](https://labs.xwiki.com/xwiki/bin/view/Main/WebHome)
+
 ## Introduction
 The purpose is to import Adoxx files (modeling tool) into a wiki.  The models
 are Business Process models.  They are converted into a "XWikish structure" (see
